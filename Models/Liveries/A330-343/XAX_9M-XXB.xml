@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>AirAsia X (Malaysia; "airasia.com")</name>
+				<a333-texture>Liveries/A330-343/XAX_9M-XXB.png</a333-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
