@@ -20,7 +20,7 @@
 				</not>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<volume>
@@ -51,7 +51,7 @@
 				</not>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<volume>
@@ -83,7 +83,7 @@
 				</not>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -121,7 +121,7 @@
 				</not>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -160,7 +160,7 @@
 				</not>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -198,7 +198,7 @@
 				</not>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -239,7 +239,7 @@
 				<property>sim/current-view/internal</property>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<volume>
@@ -270,7 +270,7 @@
 				<property>sim/current-view/internal</property>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<volume>
@@ -301,7 +301,7 @@
 				<property>sim/current-view/internal</property>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -339,7 +339,7 @@
 				<property>sim/current-view/internal</property>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -376,7 +376,7 @@
 				<property>sim/current-view/internal</property>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
@@ -422,7 +422,7 @@
 				<property>sim/current-view/internal</property>
 				<equals>
 					<property>sim/aero</property>
-					<value>A330-203</value>
+					<value>A330-303</value>
 				</equals>
 			</condition>
 			<pitch>
